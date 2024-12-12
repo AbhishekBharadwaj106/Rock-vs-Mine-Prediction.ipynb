@@ -32,7 +32,7 @@ How to Run the Project
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/AbhishekBharadwaj106/rock-vs-mine.git
+git clone https:[//github.com/AbhishekBharadwaj106/rock-vs-mine.git](https://github.com/AbhishekBharadwaj106/Rock-vs-Mine-Prediction.ipynb?tab=readme-ov-file)
 cd rock-vs-mine
 
 Install dependencies:
