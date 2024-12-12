@@ -4,7 +4,7 @@ Rock Vs mine Predictor
 **Project Overview**
 I have Builded this project focuses on building a machine learning model to classify objects as either rock or mine based on their characteristics. The dataset used in this project is sourced from sonar signals, which are reflected waves emitted to detect underwater objects. The goal is to accurately predict whether the detected object is a rock or a mine using advanced data preprocessing and classification techniques.
 
-Features
+**Features**
 
 Dataset: The project uses a labeled sonar dataset with features representing signal properties.
 Preprocessing: Handling missing or inconsistent data.
@@ -28,7 +28,7 @@ Model Building: Train and test multiple machine learning models.
 Evaluation: Compare model performance and select the best classifier.
 Deployment (optional): Save the trained model for future predictions.
 
-How to Run the Project
+**How to Run the Project**
 Clone the repository:
 bash
 Copy code
@@ -55,6 +55,6 @@ Develop a user-friendly interface for non-technical users.
 Contributing
 Contributions are welcome! Please submit a pull request or open an issue for suggestions or improvements.
 
-License
+**License**
 This project is licensed under the MIT License.
 
